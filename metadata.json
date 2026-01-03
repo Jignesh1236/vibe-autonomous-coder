@@ -1,0 +1,8 @@
+{
+  "name": "Vibe Autonomous Coder",
+  "description": "An AI-powered autonomous coding environment that continuously reads, fixes, and refines code based on your instructions until stopped.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
